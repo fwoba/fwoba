@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @fwoba
-- 👀 I’m interested in anything Cyber Security
-- 🌱 I’m currently learning Malware Analysis/PenTesting/Python
+- Hi, I’m @fwoba
+- I’m interested in anything Cyber Security
+- I’m currently learning Malware Analysis/PenTesting/Python
+- Twtter: @fwobans
 
 <!---
 fwoba/fwoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
